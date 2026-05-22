@@ -70,7 +70,7 @@ export default function Home() {
             </li>
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">🧩</span>
-              <span className="leading-relaxed">I can solve the Rubik's cube in 50 seconds!</span>
+              <span className="leading-relaxed">I can solve the Rubiks cube in 50 seconds!</span>
             </li>
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">🎧</span>
