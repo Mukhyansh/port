@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     title: "Personal Landing Page",
-    href: "mukhyansh-portfolio.vercel.app",
+    href: "/",
     description: "A sleek, interactive portfolio website with GSAP animations.",
     image: portfolio,
     imageAlt: "Personal portfolio website",
