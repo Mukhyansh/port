@@ -41,11 +41,11 @@ export const projects = [
   },
   {
     title: "Personal Landing Page",
-    href: "/",
+    href: "mukhyansh-portfolio.vercel.app",
     description: "A sleek, interactive portfolio website with GSAP animations.",
     image: portfolio,
     imageAlt: "Personal portfolio website",
     technologies: ["React", "Next.js", "GSAP", "TailwindCSS"],
-    github: "https://github.com/Mukhyansh/portfolio"
+    github: "https://github.com/Mukhyansh/port"
   },
 ]; 

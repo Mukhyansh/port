@@ -32,7 +32,7 @@ export default function Home() {
           <div className="text-neutral-900 dark:text-white">
             <h1 className="fade-in text-3xl lg:text-4xl">Mukhyansh</h1>
             <h2 className="fade-in font-extralight text-base lg:text-xl">
-              Full-Stack Software Engineer
+            Software Engineer
             </h2>
           </div>
         </div>
