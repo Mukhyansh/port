@@ -6,7 +6,7 @@ export default function Footer() {
     { name: "LinkedIn", href: "https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/", icon: Linkedin },
     { name: "Email", href: "mailto:mukbhateja@gmail.com", icon: Mail },
     { name: "Resume", href: "/ResumeM.pdf", icon: FileText },
-    { name: "Source Code", href: "https://github.com/Mukhyansh/portfolio", icon: Code },
+    { name: "Source Code", href: "https://github.com/Mukhyansh/port", icon: Code },
     { name: "Social", href: "https://instagram.com/mukhyansh", icon: Instagram}
   ];
 
