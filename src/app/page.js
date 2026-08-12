@@ -66,7 +66,7 @@ export default function Home() {
           <ul className="space-y-3">
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">🌎</span>
-              <span className="leading-relaxed">I have solved over 400 questions on <LinkButton href="https://leetcode.com/Azor_ahai">leetcode</LinkButton> and <LinkButton href="https://codeforces.com/profile/mukbhateja">codeforces</LinkButton> and have a rating of above 1600.</span>
+              <span className="leading-relaxed">I have solved over 500 questions on <LinkButton href="https://leetcode.com/Azor_ahai">leetcode</LinkButton> and <LinkButton href="https://codeforces.com/profile/mukbhateja">codeforces</LinkButton> and have a rating of above 1700.</span>
             </li>
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">🧩</span>
