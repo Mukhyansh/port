@@ -51,11 +51,11 @@ export default function Home() {
             </li>
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">🗓️</span>
-              <span className="leading-relaxed">Thinking to go towards AI/ML</span>
+              <span className="leading-relaxed">Exploring low level systems engineering</span>
             </li>
             <li className="flex items-start group transition-transform duration-200 hover:translate-x-2">
               <span className="text-xl mr-3 flex-shrink-0">💻</span>
-              <span className="leading-relaxed">Building a fun multiplayer educational game!</span>
+              <span className="leading-relaxed">Learning to build and train different ML models</span>
             </li>
           </ul>
         </li>

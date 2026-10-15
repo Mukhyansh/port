@@ -3,7 +3,16 @@ import EtchASketch from "../assets/projects/EtchASketch.png";
 import Visualizer from "../assets/projects/Visualizer.png";
 import tlib from "../assets/projects/tlib.png";
 import DFT from "../assets/projects/DFT.png";
+import LOL from "../assets/projects/AUSS.png";
 export const projects = [
+  {
+    title: "AUSS",
+    description: "An Adaptive User Space Scheduler which trains a ML model and creates Scheduling policies accordingly.",
+    image : LOL,
+    imageALT : "AUSS",
+    technologies: ["C","Python","Linux","Pandas","PostgreSQL","Scikit-Learn","/proc"],
+    github: "https://github.com/Mukhyansh/AUSS"
+  },
   {
     title: "Distributed File Transfer System",
     description: "A Distrbuted File Transfer System with self implemented file compressor.",
